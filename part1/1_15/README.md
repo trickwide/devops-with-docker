@@ -1,5 +1,7 @@
 # How to run the application from Docker Hub image
 
+[Link to Docker Hub page](https://hub.docker.com/repository/docker/vilsaast/react-counter/general)
+
 Pull image from Docker Hub
 
 ```
